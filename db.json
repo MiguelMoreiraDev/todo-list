@@ -5,5 +5,13 @@
 			"title": "Task 1",
 			"completed": false
 		}
+	],
+
+	"users": [
+		{
+			"id": 1,
+			"name": "Joaquim",
+			"password": "123"
+		}
 	]
 }
