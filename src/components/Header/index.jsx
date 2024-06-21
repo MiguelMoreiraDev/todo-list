@@ -9,7 +9,7 @@ const Header = () => {
 	};
 
 	return (
-		<div className="w-full container mx-auto p-4">
+		<div className="w-full container mx-auto p-6">
 			<header className="flex justify-between">
 				<Link to={'/'}>
 					<motion.div whileTap={animations.whileTap}>
